@@ -11,4 +11,7 @@ package test1;
  */
 public class Test2 {
     
+   public void hej(){
+      System.out.println("Hej!");
+   }
 }
